@@ -5,7 +5,8 @@
   "type": "module",
   "main": "server.js",
   "scripts": {
-    "index": "nodemon index.js"
+    "index": "nodemon index.js",
+    "build":"npm run build"
   },
   "author": "Sumit Rai",
   "license": "ISC",
